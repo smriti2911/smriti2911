@@ -1,4 +1,6 @@
 Hi there, I'm Smriti! 👋
+![Wavy Design](https://your-image-url.com/wavy.png)
+
 
 👩‍💻 About Me
 I'm a **Data Science student** with a passion for ,Data science, AI, ML, and Deep Learning. Currently, I'm working on projects related to **structural health monitoring** and **surface crack detection**. I love turning data into actionable insights and solving real-world problems.
