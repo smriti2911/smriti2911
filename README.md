@@ -3,7 +3,18 @@ Hi there, I'm Smriti! 👋
 
 
 👩‍💻 About Me
-I'm a **Data Science student** with a passion for ,Data science, AI, ML, and Deep Learning. Currently, I'm working on projects related to **structural health monitoring** and **surface crack detection**. I love turning data into actionable insights and solving real-world problems.
+### Hi there 👋
+
+* 👂 My name is Smriti
+* 🔭 I’m currently working on **Data Analytics for enhansing my skills in the field of data science**
+* 🌱 I’m currently learning **Advanced Machine Learning Techniques, Python for Data Science, and Deep learning**
+* 🤝 I’m looking to collaborate on **Open-Source Projects related to AI and Data Science**
+* 🤔 I’m looking for help with **Optimizing Deep Learning Models for Crack Detection**
+* 💬 Ask me about **Data Science, Python, AI, and Structural Health Monitoring**
+* 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/smriti1357/) |**
+* ❤️ I love **Coding, Reading, and Exploring New Technologies**
+* ⚡ Fun fact: **I'm an avid learner who enjoys solving puzzles and playing chess in my free time!**
+
 
 🛠 Tech Stack
 - **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
@@ -17,7 +28,7 @@ An AI model for detecting surface cracks in concrete structures, ensuring safety
 🛒 **[VBA macros](https://github.com/smriti2911/VBA_macros)**
 A Python-based app for managing grocery store inventory efficiently.
 
-📊 GitHub Stats
+📊smriti Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="Smriti's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="Smriti's GitHub Streaks"/>
