@@ -1,4 +1,3 @@
-Hi there, I'm Smriti! 👋
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
@@ -6,24 +5,22 @@ Hi there, I'm Smriti! 👋
 <h1 align="center">
   Let's Connect and have a Chat!💬
 </h1>
-<a href="(https://www.linkedin.com/in/smriti1357/)">
+<a href="https://www.linkedin.com/in/smriti1357/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
-
 
 👩‍💻 About Me
 ### Hi there 👋
 
 * 👂 My name is Smriti
-* 🔭 I’m currently working on **Data Analytics for enhansing my skills in the field of data science**
-* 🌱 I’m currently learning **Advanced Machine Learning Techniques, Python for Data Science, and Deep learning**
+* 🔭 I’m currently working on **Data Analytics for enhancing my skills in the field of data science**
+* 🌱 I’m currently learning **Advanced Machine Learning Techniques, Python for Data Science, and Deep Learning**
 * 🤝 I’m looking to collaborate on **Open-Source Projects related to AI and Data Science**
 * 🤔 I’m looking for help with **Optimizing Deep Learning Models for Crack Detection**
 * 💬 Ask me about **Data Science, Python, AI, and Structural Health Monitoring**
-* 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/smriti1357/) |**
+* 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/smriti1357/)**
 * ❤️ I love **Coding, Reading, and Exploring New Technologies**
 * ⚡ Fun fact: **I'm an avid learner who enjoys solving puzzles and playing chess in my free time!**
-
 
 🛠 Tech Stack
 - **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
@@ -39,12 +36,13 @@ A Python-based app for managing grocery store inventory efficiently.
 
 <svg viewBox="-16 -32 48 96" width="48" height="96" xmlns="http://www.w3.org/2000/svg"><desc>Generated with https://github.com/Platane/snk</desc><style>@keyframes s0{0%{transform:translate(0,-16px)}}@keyframes s1{0%{transform:translate(16px,-16px)}}@keyframes s2{0%{transform:translate(32px,-16px)}}@keyframes s3{0%{transform:translate(48px,-16px)}}:root{--cb:#1b1f230a;--cs:purple;--ce:#ebedf0;--c0:#ebedf0;--c1:#9be9a8;--c2:#40c463;--c3:#30a14e;--c4:#216e39}@media (prefers-color-scheme:dark){:root{--cb:#1b1f230a;--cs:purple;--ce:#161b22;--c1:#01311f;--c2:#034525;--c3:#0f6d31;--c4:#00c647}}.c{shape-rendering:geometricPrecision;fill:var(--ce);stroke-width:1px;stroke:var(--cb);animation:none 100ms linear infinite}.s,.u{animation:none linear 100ms infinite}.u{transform-origin:0 0;transform:scale(0,1)}.s{shape-rendering:geometricPrecision;fill:var(--cs)}.s.s0{transform:translate(0,-16px);animation-name:s0}.s.s1{transform:translate(16px,-16px);animation-name:s1}.s.s2{transform:translate(32px,-16px);animation-name:s2}.s.s3{transform:translate(48px,-16px);animation-name:s3}</style><rect class="s s0" x="0.8" y="0.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/><rect class="s s1" x="1.8" y="1.8" width="12.3" height="12.3" rx="4.1" ry="4.1"/><rect class="s s2" x="2.6" y="2.6" width="10.8" height="10.8" rx="3.6" ry="3.6"/><rect class="s s3" x="3.0" y="3.0" width="9.9" height="9.9" rx="3.3" ry="3.3"/></svg>
 
-📊smriti Stats
+📊 Smriti Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=smriti2911&show_icons=true&theme=radical" alt="Smriti's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=smriti2911&theme=radical" alt="Smriti's GitHub Streaks"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smriti2911&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -75,7 +73,6 @@ A Python-based app for managing grocery store inventory efficiently.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
 
 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smriti1357/)
