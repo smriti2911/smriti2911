@@ -30,9 +30,9 @@ A Python-based app for managing grocery store inventory efficiently.
 
 📊smriti Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="Smriti's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="Smriti's GitHub Streaks"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=smriti2911&show_icons=true&theme=radical" alt="Smriti's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smriti2911&theme=radical" alt="Smriti's GitHub Streaks"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smriti2911&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 🤝 Let's Connect
